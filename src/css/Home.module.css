@@ -1,0 +1,23 @@
+.MainSection{
+    margin-top: 80px;
+}
+.sectionFirst{
+    float: left;
+    margin-top: 30px;
+}
+.headingText h1{
+    font-weight: bold;
+    color: #414143;
+}
+.subheadingText{
+    width: 500px;
+    font-size: 14px;
+}
+.subText{
+    font-size: 15px;
+    color: #999999;
+}
+.bgImage{
+    margin-left: 20px;
+   float: left;
+}

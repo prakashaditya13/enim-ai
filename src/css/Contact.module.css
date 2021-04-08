@@ -1,0 +1,17 @@
+.headingText{
+    margin-top: 30px;
+}
+
+.headingText h3{
+    font-weight: 500;
+    text-decoration: underline;
+    color: #414143;
+    letter-spacing: 1.4px;
+}
+.contactForm{
+    width: 500px;
+    margin-top: 45px;
+}
+.addressHeading{
+    margin-top: 15px;
+}

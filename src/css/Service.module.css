@@ -1,0 +1,12 @@
+.headingText{
+    margin-top: 30px;
+}
+.headingText h3{
+    font-weight: 500;
+    text-decoration: underline;
+    color: #414143;
+    letter-spacing: 1.4px;
+}
+.serviceTag{
+    margin-top: 40px;
+}

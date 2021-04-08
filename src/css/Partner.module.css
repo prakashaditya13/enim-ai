@@ -1,0 +1,9 @@
+.headingText{
+    margin-top: 30px;
+}
+.headingText h3{
+    font-weight: 500;
+    color: #414143;
+    letter-spacing: 1.4px;
+    text-decoration: underline;
+}
