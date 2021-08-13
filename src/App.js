@@ -10,7 +10,7 @@ function App() {
     icon: "/download.jpg",
     homeImage: "/illustration.png"
   }
-  const MenuList = ["Home","Service","Partners","Contact"]
+  const MenuList = ["Homes","Service","Partners","Contact"]
   const Path = ["/","/service","/partner", "/contact"]
   return <Router>
     <Navbar icon={logo.icon} list={MenuList} rawPath={Path}/>
